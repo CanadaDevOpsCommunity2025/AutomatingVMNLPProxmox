@@ -1,0 +1,5 @@
+flask
+proxmoxer
+transformers
+accelerate
+torch
